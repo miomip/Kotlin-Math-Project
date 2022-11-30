@@ -1,6 +1,6 @@
 import programs.*
 
-fun main() {
+fun main(args: Array<String>) {
     val i = readln()
     if(i == "vinkelSum"){
         vinkelSum()

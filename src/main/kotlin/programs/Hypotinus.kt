@@ -7,7 +7,6 @@ fun hypotinus(){
     val g = readln().toDouble()
     println("and then the h variable")
     val h = readln().toDouble()
-    val m1 = g*g + h*h
-    val result: Double = sqrt(m1)
+    val result: Double = hypot(g, h)
     println("the answer is $result")
 }
