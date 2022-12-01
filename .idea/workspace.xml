@@ -10,15 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="992d0200-ef54-4c00-9f20-9b8931bc4023" name="Changes" comment="some changes">
-      <changelist_data name="miomiporiginal@gmail.com" email="" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Kotlin_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programs/Hypotinus.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programs/Hypotinus.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programs/arealSirkel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programs/arealSirkel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +69,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="miomip &lt;miomiporiginal@gmail.com&gt;" />
         <option value="miomiporiginal@gmail.com" />
         <option value="miomip" />
       </list>
@@ -181,7 +174,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1669750150273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="some changes">
+      <created>1669830395058</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1669830395058</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +194,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
