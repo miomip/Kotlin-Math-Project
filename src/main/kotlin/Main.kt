@@ -14,7 +14,4 @@ fun main(args: Array<String>) {
     if(i == "hypotinus"){
         hypotinus()
     }
-    if(i == "test"){
-        test()
-    }
 }

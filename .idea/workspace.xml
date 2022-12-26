@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="992d0200-ef54-4c00-9f20-9b8931bc4023" name="Changes" comment="some changes">
+    <list default="true" id="992d0200-ef54-4c00-9f20-9b8931bc4023" name="Changes" comment="Workspace changed i guess.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +180,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1669830395058</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Workspace changed I guess.">
+      <created>1669883070936</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1669883070936</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +216,16 @@
             </State>
           </value>
         </entry>
+        <entry key="be7d1e00-34b7-42e1-9c61-2e6b162676b7">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="be7d1e00-34b7-42e1-9c61-2e6b162676b7" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
@@ -231,6 +247,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="some basic changes" />
     <MESSAGE value="some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+    <MESSAGE value="Workspace changed i guess." />
+    <option name="LAST_COMMIT_MESSAGE" value="Workspace changed i guess." />
   </component>
 </project>
