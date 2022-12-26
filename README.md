@@ -1,4 +1,4 @@
-# Math-for-solving-equations-easily.-Kotlin-Project-
+# Code-for-solving-equations-easily.-Kotlin-Project-
 
 This is a project focused on math and maybe eventualy AI and machine learning
 
