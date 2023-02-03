@@ -2,7 +2,7 @@ package programs
 
 import kotlin.math.*
 
-fun hypotinus(){
+fun hypotenuse(){
     println("please type first the g/b variable")
     val g = readln().toDouble()
     println("and then the h variable")

@@ -2,16 +2,19 @@ import programs.*
 
 fun main(args: Array<String>) {
     val i = readln()
-    if(i == "vinkelSum"){
-        vinkelSum()
+    if(i == "Angle Sum"){
+        angleSum()
     }
-    if(i == "omkretsSirkel"){
-        omkretsSirkel()
+    if(i == "Circumference Circle"){
+        circumferenceCircle()
     }
-    if(i == "arealSirkel"){
-        arealSirkel()
+    if(i == "Area Circle"){
+        areaCircle()
     }
-    if(i == "hypotinus"){
-        hypotinus()
+    if(i == "Hypotenuse"){
+        hypotenuse()
+    }
+    if(i == "Factorial Function"){
+        factorialFunction()
     }
 }

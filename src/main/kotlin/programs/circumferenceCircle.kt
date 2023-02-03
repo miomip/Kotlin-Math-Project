@@ -1,7 +1,7 @@
 package programs
 import kotlin.math.PI
 
-fun omkretsSirkel(){
+fun circumferenceCircle(){
     val x = readln().toDouble()
     println(PI * x)
 }
