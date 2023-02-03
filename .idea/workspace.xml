@@ -9,14 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="992d0200-ef54-4c00-9f20-9b8931bc4023" name="Changes" comment="Deleted testground.kt and all references beacuse it being irrelevant for project.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/programs/factorialFunction.kt" afterDir="false" />
+    <list default="true" id="992d0200-ef54-4c00-9f20-9b8931bc4023" name="Changes" comment="Changed some aspects of the code including translating some words to English and adding the factorialFunction.kt file with function and use case of under same name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programs/Hypotinus.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programs/Hypotenuse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programs/arealSirkel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programs/areaCircle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programs/omkretsSirkel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programs/circumferenceCircle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/programs/vinkelSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/programs/angleSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +194,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1672069969032</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Changed some aspects of the code including translating some words to English and adding the factorialFunction.kt file with function and use case of under same name">
+      <created>1675450791633</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1675450791633</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +265,7 @@
     <MESSAGE value="Removed an if statement that referenced the test function that is no longer prominent in the project." />
     <MESSAGE value="Delete testground.kt because of it being inrele&#10;&#10;Not needed for the purpose of this project" />
     <MESSAGE value="Deleted testground.kt and all references beacuse it being irrelevant for project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted testground.kt and all references beacuse it being irrelevant for project." />
+    <MESSAGE value="Changed some aspects of the code including translating some words to English and adding the factorialFunction.kt file with function and use case of under same name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed some aspects of the code including translating some words to English and adding the factorialFunction.kt file with function and use case of under same name" />
   </component>
 </project>
