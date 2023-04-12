@@ -1,4 +1,4 @@
-# Code-for-solving-equations-easily.-Kotlin-Project-
+# Kotlin Math Project
 
 This is a project focused on math and maybe eventually AI and machine learning
 
