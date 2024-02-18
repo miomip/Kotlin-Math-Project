@@ -1,6 +1,6 @@
 # Kotlin Math Project
 
-This is a project focused on math and maybe eventually AI and machine learning
+This is a project focused on math and maybe eventually machine learning
 
 This is a no-license project.
 
